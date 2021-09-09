@@ -1,4 +1,4 @@
-program CT1;
+program CT2;
 uses crt;
 begin
 clrscr;
